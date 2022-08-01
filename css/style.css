@@ -15,6 +15,17 @@ html,body{
   height:100%;
   padding-top:100px;
 }
+.contact{
+  position: absolute;
+  
+  width: 400px;
+  height: 100px;
+  bottom: 10px;
+  font-size:30px;
+  font-weight:bolder;
+  color: rgb(182, 212, 74);
+  margin: 50px;
+}
 @keyframes spacetravel {
   from {background-position:0 0;}
   to {background-position:-10000px 10000px;}
